@@ -1,0 +1,7 @@
+{
+  "name": "to-dos-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
